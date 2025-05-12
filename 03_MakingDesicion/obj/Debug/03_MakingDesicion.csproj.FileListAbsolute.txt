@@ -1,0 +1,7 @@
+C:\Users\LENOVO26AGUS022\source\repos\cSharpEgitimKampi\03_MakingDesicion\bin\Debug\03_MakingDesicion.exe.config
+C:\Users\LENOVO26AGUS022\source\repos\cSharpEgitimKampi\03_MakingDesicion\bin\Debug\03_MakingDesicion.exe
+C:\Users\LENOVO26AGUS022\source\repos\cSharpEgitimKampi\03_MakingDesicion\bin\Debug\03_MakingDesicion.pdb
+C:\Users\LENOVO26AGUS022\source\repos\cSharpEgitimKampi\03_MakingDesicion\obj\Debug\03_MakingDesicion.csproj.AssemblyReference.cache
+C:\Users\LENOVO26AGUS022\source\repos\cSharpEgitimKampi\03_MakingDesicion\obj\Debug\03_MakingDesicion.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO26AGUS022\source\repos\cSharpEgitimKampi\03_MakingDesicion\obj\Debug\03_MakingDesicion.exe
+C:\Users\LENOVO26AGUS022\source\repos\cSharpEgitimKampi\03_MakingDesicion\obj\Debug\03_MakingDesicion.pdb
