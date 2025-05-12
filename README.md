@@ -1,5 +1,4 @@
-
- 🚀 C# Yazılım Kampı - İlk 10 Proje
+🚀 C# Yazılım Kampı - İlk 10 Proje
 Merhaba! 👋  
 Bu repo, Murat Yücedağ'ın eğitmenliğinde gerçekleştirilen C# Eğitim Kampı süresince tamamladığım ilk 10 projeyi içermektedir.  
 Her bir proje, belirli programlama kavramlarını anlama ve uygulama yeteneğimi geliştirmeme yardımcı oldu.  
@@ -18,7 +17,7 @@ Kullanıcıdan veri alma işlemlerini ve string türü harici alınan verileri s
 🔁 Proje 4: Döngüler (Loops) 
  for, while ve foreach döngüleri ile tanıştım. Döngülerin tekrar eden işlemleri kolaylaştırma gücünü keşfettim.
  
-✨ Proje 5: Döngüler de yıldızlarla şekil çizdirme (LoopsWithStars) 
+ ✨ Proje 5: Döngüler de yıldızlarla şekil çizdirme (LoopsWithStars) 
 Bu projede yıldızlarla şekil çizme uygulamaları geliştirdim .⭐⭕
 
 📦 Proje 6: Diziler (Arrays) 
