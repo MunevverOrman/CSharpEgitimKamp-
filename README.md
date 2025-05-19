@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/16baa986-cce9-4662-9aea-879d6eeeb010)🚀 C# Yazılım Kampı - İlk 10 Proje
+🚀 C# Yazılım Kampı - İlk 10 Proje
 Merhaba! 👋  
 Bu repo, Murat Yücedağ'ın eğitmenliğinde gerçekleştirilen C# Eğitim Kampı süresince tamamladığım ilk 10 projeyi içermektedir.  
 Her bir proje, belirli programlama kavramlarını anlama ve uygulama yeteneğimi geliştirmeme yardımcı oldu.  
