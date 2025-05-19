@@ -47,4 +47,30 @@ SqlConnection ve SqlCommand sınıflarını kullanarak veritabanına bağlantı 
 Bu projede CRUD (Create, Read, Update, Delete) işlemleriyle bir veritabanı ile veri yönetimi sağladım. Ürün ve kategori bilgilerini ekleyip, güncelleyip, silerek dinamik bir sistem oluşturdum.
 SQL komutlarıyla ürün bilgilerini veritabanına kaydettim ve bunları sorgulayıp düzenlemeyi öğrendim. Bu proje sayesinde veritabanı işlemlerini ve dinamik veri yönetimini pratikleştirdim. 📑
 
+🌐 Proje 11: EfTravel İstatistik Paneli
+
+Bu projede, Entity Framework ile seyahat veritabanındaki kayıtları sorgulayarak Windows Forms tabanlı dinamik bir analiz arayüzü oluşturdum. Kullanıcıların canlı olarak görebileceği çeşitli metrikler ve filtreleme seçenekleri sundum.
+
+🔎 Öne çıkan özellikler:
+
+🗺️ Toplam Lokasyon ve Rehber Sayısı: Sistem genelindeki lokasyon ve rehber adetlerini otomatik hesaplayıp görüntüledim.
+
+📊 Ortalama Kapasite & Fiyat: Tüm turlar için ortalama kapasite ve ücret verilerini hesaplayarak özet tabloda sundum.
+
+🔍 Şehir/Ülke Filtreleme: Belirli bir destinasyona ait verileri seçilebilir filtreler aracılığıyla incelemeyi sağladım.
+
+🚩 En Yüksek Değer Tespiti: Maksimum kapasite ve fiyat değerlerine sahip şehirleri öne çıkararak kullanıcıya kritik bilgileri hızlıca sundum.
+
+👤 Rehber Bazlı Tur Sayısı: Her bir rehberin sorumluluğundaki tur adedini hesaplayarak performans analizi yapılmasını mümkün kıldım.
+
+🎯 Kazanımlarım:
+
+EF Core kullanarak veri tabanına bağlantı kurma, LINQ ile etkin sorgulama ve filtreleme becerilerimi geliştirdim.
+
+Windows Forms üzerinde, kullanıcı dostu ve etkileşimli grafik/tablo bileşenleriyle görsel bir panel tasarladım.
+
+Sorgu sonuçlarını işleyip anlamlı metriklere dönüştürerek projenin işlevselliğini artırdım. 📈
+
+Bu proje ile hem veri tabanı yönetimi konusundaki yetkinliğim pekişti hem de kullanıcı odaklı görselleştirme deneyimi kazandım. İlerleyen projelerde bu temeli daha da derinleştirmeyi hedefliyorum! 🚀
+
 
