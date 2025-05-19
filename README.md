@@ -1,4 +1,4 @@
-🚀 C# Yazılım Kampı - İlk 10 Proje
+![image](https://github.com/user-attachments/assets/16baa986-cce9-4662-9aea-879d6eeeb010)🚀 C# Yazılım Kampı - İlk 10 Proje
 Merhaba! 👋  
 Bu repo, Murat Yücedağ'ın eğitmenliğinde gerçekleştirilen C# Eğitim Kampı süresince tamamladığım ilk 10 projeyi içermektedir.  
 Her bir proje, belirli programlama kavramlarını anlama ve uygulama yeteneğimi geliştirmeme yardımcı oldu.  
@@ -48,6 +48,8 @@ Bu projede CRUD (Create, Read, Update, Delete) işlemleriyle bir veritabanı ile
 SQL komutlarıyla ürün bilgilerini veritabanına kaydettim ve bunları sorgulayıp düzenlemeyi öğrendim. Bu proje sayesinde veritabanı işlemlerini ve dinamik veri yönetimini pratikleştirdim. 📑
 
 🌐 Proje 11: EfTravel İstatistik Paneli
+
+![EfTravel](https://github.com/MunevverOrman/CSharpEgitimKamp-/blob/main/c%C4%B1kt%C4%B12.png?raw=true)
 
 Bu projede, Entity Framework ile seyahat veritabanındaki kayıtları sorgulayarak Windows Forms tabanlı dinamik bir analiz arayüzü oluşturdum. Kullanıcıların canlı olarak görebileceği çeşitli metrikler ve filtreleme seçenekleri sundum.
 
